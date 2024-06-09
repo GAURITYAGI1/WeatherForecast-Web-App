@@ -3,7 +3,17 @@
 
 The WeatherForecast-Web-App is a web application designed to provide users with current weather information and forecasts for various locations. Here's a detailed description of the app:
 
-### WeatherForecast-Web-App Description
+## WeatherForecast-Web-App Description -:
+### Inline Link for openweathermap API
+Here's how you might include an inline link within a paragraph:
+
+The application integrates with the [OpenWeatherMap API](https://openweathermap.org/api) to fetch current weather conditions and forecasts.
+External Documentation Links
+If you want to direct users to external documentation or resources:
+
+### External Link for openweathermap API
+
+For detailed API documentation, refer to the [OpenWeatherMap API documentation](https://openweathermap.org/api).
 
 #### Overview
 The WeatherForecast-Web-App is an intuitive and user-friendly web application that delivers real-time weather updates and forecasts. It is designed to help users plan their daily activities and travel by providing accurate and timely weather information.
