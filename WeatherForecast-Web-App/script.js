@@ -1,4 +1,4 @@
-const apiKey = '77ce336aca9a8e34fe5f5f7f38934ccc';  
+const apiKey = '#your apiKey';  
 let city = 'London';
 const url = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=$77ce336aca9a8e34fe5f5f7f38934ccc`;
 
