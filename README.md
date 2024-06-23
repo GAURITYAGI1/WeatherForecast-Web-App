@@ -57,5 +57,7 @@ The WeatherForecast-Web-App is an intuitive and user-friendly web application th
 - **Event Planners**: Ensure favorable weather conditions for outdoor events such as weddings, parties, and sports activities.
 
 The WeatherForecast-Web-App is designed to be a comprehensive tool for anyone needing accurate and reliable weather information, enhancing daily planning and safety.
+##### web view for weather api app
+![image](https://github.com/GAURITYAGI1/)
 
 
