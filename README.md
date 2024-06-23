@@ -58,6 +58,7 @@ The WeatherForecast-Web-App is an intuitive and user-friendly web application th
 
 The WeatherForecast-Web-App is designed to be a comprehensive tool for anyone needing accurate and reliable weather information, enhancing daily planning and safety.
 ##### web view for weather api app
-![image](https://github.com/GAURITYAGI1/)
+![Screenshot (20)](https://github.com/GAURITYAGI1/WeatherForecast-Web-App/assets/139331361/eb78805c-a964-4aee-9972-51a0fe0d8f1d)
+![Screenshot (21)](https://github.com/GAURITYAGI1/WeatherForecast-Web-App/assets/139331361/8e294ac7-768e-4d81-be11-5f02e55c7965)
 
 
