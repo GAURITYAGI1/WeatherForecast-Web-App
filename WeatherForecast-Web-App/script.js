@@ -1,4 +1,4 @@
-const apiKey = '#your apiKey';  
+const apiKey = '#Enter your apiKey';  
 let city = 'London';
 const url = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=$#your apiKey`;
 
